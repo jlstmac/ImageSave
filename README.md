@@ -1,2 +1,1 @@
-# ImageSave
-Use ImageIO to save UIImage
+ImageIO是苹果出的图片处理 库，使用ImageIO保存图片到本地路径有一个好处是内存不会增长（传统API存图的时候，内存会有一个增长，增长大小为image的大小）
